@@ -47,6 +47,10 @@ h1{
     font-size: 60px;
     color: rgb(192, 149, 233);
 }
+h2{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
 #zahl{
     font-size: 40px;
     color: rgb(255, 47, 99);
